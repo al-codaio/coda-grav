@@ -99,6 +99,7 @@
         "test-windows": "vendor\\bin\\codecept run unit",
         "compile": [
             "bin/grav install",
+            "bin/gpm install admin -y",
             "bin/gpm install quark -y",
             "bin/gpm install krypton -y"
         ]
