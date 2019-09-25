@@ -1,6 +1,6 @@
 enabled: true
 production-mode: false
-grid-size: grid-lg
+grid-size: grid-md
 header-fixed: true
 header-animated: true
 header-dark: false
@@ -11,8 +11,8 @@ spectre:
   exp: false
   icons: false
 custom_logo:
-  user/themes/krypton/images/logo/coda-logo.png:
-    name: coda-logo.png
+  user/themes/krypton/images/logo/coda-font-red.png:
+    name: coda-font-red.png
     type: image/png
-    size: 1302
-    path: user/themes/krypton/images/logo/coda-logo.png
+    size: 3568
+    path: user/themes/krypton/images/logo/coda-font-red.png
