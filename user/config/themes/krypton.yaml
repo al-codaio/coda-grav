@@ -1,0 +1,18 @@
+enabled: true
+production-mode: false
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo:
+  user/themes/krypton/images/logo/coda-logo.png:
+    name: coda-logo.png
+    type: image/png
+    size: 1302
+    path: user/themes/krypton/images/logo/coda-logo.png

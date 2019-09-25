@@ -1,0 +1,18 @@
+enabled: true
+production-mode: false
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+custom_logo:
+  user/themes/quark/images/logo/coda.svg:
+    name: coda.svg
+    type: image/svg+xml
+    size: 2078
+    path: user/themes/quark/images/logo/coda.svg
